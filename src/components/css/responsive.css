@@ -1,0 +1,39 @@
+@media (max-width:1210px) {
+    .form{
+        width:50%
+    }
+}
+@media (max-width:900px) {
+    .form{
+        width:60%
+    }
+    .image{
+        top:0.8rem;
+        left:1rem;
+    }
+}
+@media (max-width:750px) {
+    .form{
+        width:80%
+    }
+}
+@media (max-width:572px) {
+    .form{
+        width:90%;
+        padding:1rem 1.5rem; 
+    }
+   .radio_box{
+    padding: 0.1rem;
+    font-size: 0.7rem;
+   }
+}
+@media (max-width:300px) {
+    .form{
+        width:95%;
+        padding:1rem 1.5rem; 
+    }
+   .radio_box{
+    padding: 0.1rem;
+    font-size: 0.6rem;
+   }
+}
